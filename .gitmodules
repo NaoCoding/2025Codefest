@@ -1,0 +1,6 @@
+[submodule "TaipeiAttractionsInformation"]
+	path = TaipeiAttractionsInformation
+	url = git@github.com:NaoCoding/TaipeiAttractionsInformation.git
+[submodule "TownPass"]
+	path = TownPass
+	url = git@github.com:NaoCoding/TownPass.git
